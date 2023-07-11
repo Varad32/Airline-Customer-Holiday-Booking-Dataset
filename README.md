@@ -3,3 +3,5 @@
 This dataset provides comprehensive information about customers' preferences and behaviors related to airline holiday bookings. With detailed attributes covering various aspects of the booking process, this dataset is ideal for analyzing and understanding customer choices and patterns in the airline industry.
 
 Potential analyses and applications include:
+
+1. Identifying factors influencing successful holiday bookings and improving conversion rates.
