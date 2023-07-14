@@ -7,3 +7,5 @@ Potential analyses and applications include:
 1. Identifying factors influencing successful holiday bookings and improving conversion rates.
 2. Evaluating the impact of different services (e.g., in-flight meals, extra baggage allowance) on customers' booking decisions.
 3. Assessing the relationship between booking lead time and customer choices.
+4. Analyzing the popularity of various routes and flight schedules.
+
